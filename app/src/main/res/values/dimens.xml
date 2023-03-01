@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="screen_layout_padding">8dp</dimen>
+    <dimen name="dialog_layout_padding">16dp</dimen>
+    <dimen name="button_text_size">24sp</dimen>
+    <dimen name="text_size_36">36sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+
+</resources>
